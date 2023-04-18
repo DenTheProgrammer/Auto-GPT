@@ -138,9 +138,10 @@ _To execute the following commands, open a CMD, Bash, or Powershell window by na
     # On Linux of Mac:
    ./run.sh start
    # On Windows:
-   ./run.bat start
+   run.bat
+   (in terminal or just double click)
    ```
-   Running with `--help` after `start` lists all the possible command line arguments you can pass.
+   Running with `--help` argument lists all the possible command line arguments you can pass.
 
 2. After each action, choose from options to authorize command(s),
 exit the program, or provide feedback to the AI.

@@ -1,3 +1,2 @@
 @echo off
-set argument=--continuous
-call run.bat %argument%
+call run.bat --continuous %*
